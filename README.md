@@ -11,3 +11,9 @@ Finally, regarding the distribution, we may conclude that most of the Customers 
 * K-means
 * Python
 * Google Colab
+# Approach
+* Data understanding
+* Clustering technique
+* Elbow joint
+# What is Clustering?
+In machine learning clusteriing often groups samples in other to find and understand similarities. This data does not require any early knowledge or labels. This strengh of not requiring labels makes clustering to be knowned as an unsupervised machine learning technique.
